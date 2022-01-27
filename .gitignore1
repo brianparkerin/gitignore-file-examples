@@ -15,6 +15,10 @@ non_test
 
 creds.json
 
+secrets.txt
+
+discret.txt
+
 /non_test
 
 /creds.json
