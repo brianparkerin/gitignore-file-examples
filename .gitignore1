@@ -1,0 +1,20 @@
+.gitignore
+
+.git/info/exclude .gitignore
+
+.git/info/exclude
+
+[core] 
+excludesfile = /home/username/.gitignore
+
+!.gitignore*
+
+!.gitignore
+
+non_test
+
+creds.json
+
+/non_test
+
+/creds.json
